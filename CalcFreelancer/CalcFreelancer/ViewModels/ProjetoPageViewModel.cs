@@ -84,7 +84,8 @@ namespace CalcFreelancer.ViewModels
                 ValorPorHora = ValorPorHora,
                 HorasPorDia = HorasPorDia,
                 DiasDuracaoProjeto = DiasDuracaoProjeto,
-                ValorTotal = ValorTotal
+                ValorTotal = ValorTotal,
+                Nome = Nome
             });
 
 

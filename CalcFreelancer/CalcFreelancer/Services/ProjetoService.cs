@@ -5,6 +5,7 @@ using CalcFreelancer.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace CalcFreelancer.Services
 {
@@ -20,6 +21,11 @@ namespace CalcFreelancer.Services
         public void Inserir(Projeto projeto)
         {
             ProjetoRepository.Insert(projeto);
+        }
+
+        public Task<IEnumerable<Projeto>> ObterTodos()
+        {
+            return ProjetoRepository.GetAll();
         }
     }
 }
