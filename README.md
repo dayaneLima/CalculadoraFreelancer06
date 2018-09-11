@@ -560,4 +560,4 @@ Vá na guia de Projeto e cadastre um projeto, após vá na guia de Projetos e pu
 
 ## Resultado
 
-<img src="https://github.com/dayaneLima/CalculadoraFreelancer06/blob/master/Docs/Gifs/lista_funcionando.gif" alt="Lista funcionando" width="100%">
+<img src="https://github.com/dayaneLima/CalculadoraFreelancer06/blob/master/Docs/Gifs/lista_funcionando.gif" alt="Lista funcionando" width="260">
